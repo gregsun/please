@@ -1,4 +1,4 @@
-Release Notes of MP4MIX v1.4
+Release Notes of please v1.4
 Wed Jun 17 18:07:02 2020
 Built on machine greg-T408S src/please from src/please.pl
 Usage:
