@@ -1,0 +1,16 @@
+Release Notes of MP4MIX v1.4
+Wed Jun 17 18:07:02 2020
+Built on machine greg-T408S src/please from src/please.pl
+Usage:
+src/please is for perl release management
+	src/please -i <file>.pl
+	It will compile <file>.pl to <file> and update <file>.readme to <file>.readme.txt as release notes.
+
+##Built on greg-T408S from src/please.pl Wed Jun 17 18:07:02 2020 git version v1.4
+
+----------List of Changes-----------------
+#Log 2020-06-17 17:58:06 -0700 : add tag for IGNORE so that this file itself can be released
+#Log 2020-06-17 13:49:19 -0700 : add new tags and style with __<TAG__ to __TAG>__ for pairs
+#Log 2020-06-17 11:16:23 -0700 : add tag __EXE__ and __SOURCE__
+#Log 2020-06-16 21:51:30 -0700 : create release management with macros
+
